@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: package-lock.json
+  checksum: d7d8b986653b75608ffb7bc14de6657c72ddbbd81e29611d97b9f81ea118d2b5
+- filename: src/Components/NavBar.jsx
+  checksum: de50cfcc4455ad9f103c7292172350322b1281576401d29c8deb1ea199fa86f2
+version: "1.0"
