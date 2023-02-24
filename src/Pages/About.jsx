@@ -1,6 +1,6 @@
 export const About = () => {
     return (
-        <div>
+        <section style={{height: '100vh'}} id={'about'}>
             <p>
                 Our mission is to provide top-quality, reliable and efficient maintenance and repair services to our customers.
 
@@ -13,6 +13,6 @@ export const About = () => {
                 We aim to make a positive impact on our customers' homes, businesses and lives
                 by providing comprehensive maintenance solutions and ensuring the best possible care for their properties.
             </p>
-        </div>
+        </section>
     )
 }
